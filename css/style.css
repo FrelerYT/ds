@@ -104,7 +104,7 @@ nav ul li a {
     padding: 15px;
 }
 
-.cards {
+.cads {
 	background-color: #961b1b;
 	color: white;
 	text-align: center;
@@ -119,19 +119,16 @@ nav ul li a {
 	box-shadow: -2px 2px 6px 0px rgba (0,0,0,0,.75);
 }
 
-.cards:hover {
+.:hover {
 	-webkit-box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
 	-moz-box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
 	box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
 }
     
-.card{
-	background-color: #2a2a2a;
+.crd{
+	backgrond-color: #2a2a2a;
 	color: white;
 	text-align: center;
-	border-radius: 10px;
-	width: 25px;
-	padding: 15px;
 	margin: 10px;
 	margin-right: 5%;
 	display: inline-block;
@@ -140,7 +137,7 @@ nav ul li a {
 	box-shadow: -2px 2px 6px 0px rgba (0,0,0,0,.75);
 }
 
-.card:hover{
+.crd:hover{
 	-webkit-box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
 	-moz-box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
 	box-shadow: -2px 2px 12px 0px rgba (0,0,0,0.75);
